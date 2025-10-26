@@ -1,4 +1,0 @@
-gradio
-openai
-beautifulsoup4
-requests
