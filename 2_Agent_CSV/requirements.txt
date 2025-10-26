@@ -1,0 +1,3 @@
+gradio
+openai>=1.1.1
+pandas
