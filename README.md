@@ -13,9 +13,9 @@ Python · LangChain · OpenAI API · Gradio · CSV Data · RAG Integration
 To make career guidance more intelligent, personalized, and accessible through AI-powered recommendations and learning paths.
 
 🔸 CareerMind AI – Hugging Face Space:
+🔸 Bot with prompt Demo:
 https://huggingface.co/spaces/morooj234/mm
 🔸 CSV Agent Demo:
 https://huggingface.co/spaces/morooj234/morooj1
-
 🔸 RAG Agent Demo:
 https://huggingface.co/spaces/morooj234/MOROOJ2
